@@ -7,5 +7,3 @@
 - Is it expected that failed with specific triplet?
 
 - Did you read through the maintainer guide? [https://github.com/microsoft/vcpkg/blob/master/docs/maintainers/maintainer-guide.md].
-
-- test
