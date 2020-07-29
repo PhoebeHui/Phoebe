@@ -1,1 +1,1 @@
-test A
+test auto assign
